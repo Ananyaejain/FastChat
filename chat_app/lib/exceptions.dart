@@ -1,0 +1,1 @@
+class UnableToRegisterUserException implements Exception{}
